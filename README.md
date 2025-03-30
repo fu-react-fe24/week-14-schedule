@@ -33,13 +33,18 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 
 ### Filmer
 
-* [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) - Film 1 till 20 är relevanta för den första veckan
+* [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) - Film 21 tll 32 mest är relevanta för den första veckan, 33 till 39 handlar om styling vilket också kan vara användbart
 
 ### Länkar
 
+* [useState - dokumentation](https://react.dev/reference/react/useState)
+* [useEffect - dokumentation](https://react.dev/reference/react/useEffect)
+* [useRef - dokumentation](https://react.dev/reference/react/useRef)
 
 ### Övningar 
 
+* [State Bootcamp](https://github.com/fu-react-fe24/week-14-exercise-state-bootcamp)
+* [Book Store del 2](https://github.com/fu-react-fe24/week-14-exercise-state-bookstore) - Veckans Code Review-uppgift
 
 
 
