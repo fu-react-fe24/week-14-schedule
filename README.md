@@ -14,6 +14,7 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 
 ### Presentationer
 
+* [Hooks & State](https://docs.google.com/presentation/d/1ptkIbiE5WDWGyEZOpUoGc4tfMZpRzNPQ/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -28,9 +29,11 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 
 ### Lektionsrepon
 
+* [31 mars](https://github.com/fu-react-fe24/week-14-lecture-31-mars)
 
 ### Filmer
 
+* [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) - Film 1 till 20 är relevanta för den första veckan
 
 ### Länkar
 
