@@ -9,6 +9,9 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 
 ## Mål för veckan:
 
+1. Förstå hur vi skapar interaktivitet i våra Reactapplikationer
+2. Förstå vad hooks är, samt vilken funktion de fyller
+3. Förstå vad state är för något, samt vilken funktion det fyller
 
 ## Resurser
 
