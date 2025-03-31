@@ -23,6 +23,9 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 
 **LIVE**
 
+* [State, måndag förmiddag Karlstad](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EXSZZSl6SGJLgXMKO9XcXGIBzbX9gu_8eajqlycX1SgRXg?e=XDoUZy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [State, måndag eftermiddag gemensam](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EUdZd2-j_1pHrhdLSu7a5U8BFPQMi9T1lHPJh0-QKwDFAA?e=h4TZsd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Förinspelat** (för distansklassen)
 
 * [01 - Interaktivitet](https://vimeo.com/1039701605/38ee8ad5c5?share=copy)
