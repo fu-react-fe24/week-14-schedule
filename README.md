@@ -25,6 +25,7 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 
 * [State, måndag förmiddag Karlstad](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EXSZZSl6SGJLgXMKO9XcXGIBzbX9gu_8eajqlycX1SgRXg?e=XDoUZy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * [State, måndag eftermiddag gemensam](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EUdZd2-j_1pHrhdLSu7a5U8BFPQMi9T1lHPJh0-QKwDFAA?e=h4TZsd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [useEffect & Repetition, torsdag förmiddag](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EZXy5caayKBOvlSNxsBqSLQBkQTV8XYfQfBOqVCFbaa-bA?e=IifFWd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Förinspelat** (för distansklassen)
 
@@ -36,6 +37,9 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 ### Lektionsrepon
 
 * [31 mars](https://github.com/fu-react-fe24/week-14-lecture-31-mars)
+* [1 april](https://github.com/fu-react-fe24/week-14-lecture-1-apr)
+* [2 april](https://github.com/fu-react-fe24/week-14-lecture-2-apr)
+* [3 april](https://github.com/fu-react-fe24/week-14-lecture-3-apr)
 
 ### Filmer
 
